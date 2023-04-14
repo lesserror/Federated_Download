@@ -1,6 +1,7 @@
 # Federated_Download
 This repository stored the source code for downloading the result of ferderated learning.
-系列文章：这个系列已完结，如对您有帮助，求点赞收藏评论。
+
+系列文章-第6篇：这个系列已完结，如对您有帮助，求点赞收藏评论。
 读者寄语：`再小的帆，也能远航！`
 
   1. [【k8s完整实战教程0】前言](https://blog.csdn.net/qq_47058489/article/details/130152468)
